@@ -6,7 +6,7 @@ Meow UserBot
 [![MEOWBOT LOGO](https://te.legra.ph/file/b5a457725d59cc7765dde.jpg)](https://t.me/BRANDRD_21 )
 
 Generate-pyrogram-session-string - Replit
-https://replit.com/@dashezup/generate-pyrogram-session-string
+(https://t.me/String_sessionkhushi_bot)
 
 🔥 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍 𝐑𝐈𝐒𝐊 🔥
 
