@@ -1,9 +1,9 @@
-# poison userbot + music system
+# 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 - 𝗠𝗘𝗢𝗪 + 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 + 𝗠𝗨𝗦𝗜𝗖 𝗦𝗬𝗦𝗧𝗘𝗠
 it's pyrogram userbot made with love
 
 Meow UserBot
 
-[![MEOWBOT LOGO](https://telegra.ph/file/6db1c486e1266eb1991f1.jpg)](https://t.me/POISON_lll_X_lll_WISKEY )
+[![MEOWBOT LOGO](https://te.legra.ph/file/b5a457725d59cc7765dde.jpg)](https://t.me/BRANDRD_21 )
 
 Generate-pyrogram-session-string - Replit
 https://replit.com/@dashezup/generate-pyrogram-session-string
@@ -13,7 +13,7 @@ https://replit.com/@dashezup/generate-pyrogram-session-string
 𝔽𝕆ℝ 𝔻𝔼ℙ𝕃𝕆𝕐 𝕆ℕ ℍ𝔼ℝ𝕆𝕂𝕌 𝕋𝔸ℙ 𝕆ℕ 𝕋ℍ𝔼 𝔹𝕌𝕋𝕋𝕆ℕ ☟︎︎︎
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Rajpomane/Meow">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/WCGKING/Meow">
   <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-aqua?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/UJhak0)
@@ -99,8 +99,8 @@ Credit - RiZoeL Repo For some plugin
 
 - **inviteall - For member adding **
 
-<h2 align="Owner"><b>Owner <a href="https://t.me/POISON_lll_X_lll_WISKEY">poison</a></b></h2>
-<h2 align="Owner"><b>Owner <a href="https://github.com/Rajpomane">branded</a></b></h2>
+<h2 align="Owner"><b>Owner <a href="https://t.me/BRANDRD_21">Branded</a></b></h2>
+<h2 align="Owner"><b>Owner <a href="https://github.com/WCGKING">branded</a></b></h2>
 
 
 <p align="center">
@@ -111,4 +111,4 @@ Credit - RiZoeL Repo For some plugin
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Rajpomane/Meow"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/Meow"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
