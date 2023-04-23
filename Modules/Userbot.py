@@ -11,10 +11,9 @@ from pyrogram.types import Message
 from pyrogram import __version__ as pyro_vr             
                 
 
-pongg = PING_MSG if PING_MSG else "👑 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗕𝗢𝗧 𝗜𝗦 𝗢𝗡 𝗙𝗜𝗥𝗘 👑"
+pongg = PING_MSG if PING_MSG else "Branded bot is on fire"
 KAAL_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/5ef86d039b64df539acc2.jpg"
-Alivemsg = ALIVE_MSG if ALIVE_MSG else "❤️🚩𝗝𝗔𝗜 𝗦𝗛𝗥𝗘𝗘 𝗥𝗔𝗠 𝗛𝗔𝗥 𝗛𝗔𝗥 𝗠𝗔𝗛𝗔𝗗𝗘𝗩 🚩❤️
-👑 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗜𝗦 𝗢𝗡𝗟𝗜𝗡𝗘 𝗡𝗢𝗪 👑."
+Alivemsg = ALIVE_MSG if ALIVE_MSG else "Branded is online now."
 
 
 manjeet = f"⁂ {Alivemsg} ⁂\n\n"
@@ -27,11 +26,11 @@ manjeet += f"➠ **Database**  : `Mongo atlas`\n"
 manjeet += f"➠ **Database Status **  : `Functional`\n"
 manjeet += f"➠ **current Branch**  : `Master`\n"
 manjeet += f"➠ **VC Modulesc**  : `Allow`\n"
-manjeet += f"➠ **Channel** : [𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗖𝗛𝗔𝗡𝗡𝗘𝗟l](https://t.me/BRANDED_LINK)\n"
-manjeet += f"➠ **Group** : [𝗢𝗪𝗡𝗘𝗥](https://t.me/BRANDRD_21)\n"
+manjeet += f"➠ **Channel** : [support channel](https://t.me/BRANDED_LINK)\n"
+manjeet += f"➠ **Group** : [Owner](https://t.me/BRANDRD_21)\n"
 manjeet += f"━───────╮•╭───────━\n\n"
-manjeet += f"➠ **Channel** : [𝗙𝗥𝗘𝗘 𝗖𝗖](https://t.me/BRANDED_FREE_CC)\n"
-manjeet += f"➠ **Source Code:** [•𝗥𝗘𝗣𝗢•](https://te.legra.ph/file/b5a457725d59cc7765dde.jpg)"
+manjeet += f"➠ **Channel** : [Commands](https://t.me/BRANDED_FREE_CC)\n"
+manjeet += f"➠ **Source Code:** [•Repo•](https://te.legra.ph/file/b5a457725d59cc7765dde.jpg)"
 
 
 async def get_time(seconds: int) -> str:
