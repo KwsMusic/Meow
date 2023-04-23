@@ -5,7 +5,7 @@ Meow UserBot
 
 [![MEOWBOT LOGO](https://te.legra.ph/file/b5a457725d59cc7765dde.jpg)](https://t.me/BRANDRD_21 )
 
-<p align="center"><a href="https://t.me/String_sessionkhushi_bot">
+<p align="center"><a href="https://t.me/String_sessionkhushi_bot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 🔥 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍 𝐑𝐈𝐒𝐊 🔥
