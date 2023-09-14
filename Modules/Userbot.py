@@ -26,10 +26,10 @@ manjeet += f"➠ **Database**  : `Mongo atlas`\n"
 manjeet += f"➠ **Database Status **  : `Functional`\n"
 manjeet += f"➠ **current Branch**  : `Master`\n"
 manjeet += f"➠ **VC Modulesc**  : `Allow`\n"
-manjeet += f"➠ **Channel** : [support channel](https://t.me/BRANDED_LINK)\n"
-manjeet += f"➠ **Group** : [Owner](https://t.me/BRANDRD_21)\n"
+manjeet += f"➠ **Channel** : [support channel](https://t.me/BRANDRD_BOT)\n"
+manjeet += f"➠ **Group** : [Owner](https://t.me/BRANDED_BOT)\n"
 manjeet += f"━───────╮•╭───────━\n\n"
-manjeet += f"➠ **Channel** : [Commands](https://t.me/BRANDED_FREE_CC)\n"
+manjeet += f"➠ **Channel** : [Commands](https://t.me/B_R_A_N_D_E_D_K_I_N_G\n"
 manjeet += f"➠ **Source Code:** [•Repo•](https://te.legra.ph/file/b5a457725d59cc7765dde.jpg)"
 
 
