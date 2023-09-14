@@ -32,7 +32,7 @@ contact_filter = filters.create(
     lambda _, __, message: (message.from_user and message.from_user.is_contact)
     or message.outgoing
 )
-# SUDO_USERS = list(filter(lambda x: x, map(int, os.getenv("SUDO_USERS", "1517994352 1789859817").split())))
+# SUDO_USERS = list(filter(lambda x: x, map(int, os.getenv("SUDO_USERS", "6258877205 5985126013").split())))
 #----------------------------------------------
 bot = Client(SESSION, API_ID, API_HASH, plugins=dict(root="Modules"))
 call_py = PyTgCalls(bot)
